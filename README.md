@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZakaCoding
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Frontend Engineering on Kampus merdeka program by Kemendikbud
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
